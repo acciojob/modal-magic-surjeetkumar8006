@@ -1,7 +1,6 @@
-// Get elements
 const modal = document.getElementById("myModal");
 const openBtn = document.getElementById("openModal");
-const closeBtn = document.querySelector(".close");
+const closeBtn = document.querySelector(".close-modal");
 
 // Open modal
 openBtn.addEventListener("click", () => {
